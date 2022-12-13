@@ -1,8 +1,6 @@
-# This is your readme
-You are required to fill it in with documentation similar to that found in the Sequelize example for the course as part of your final project.
+# Map of PG County Libraries by Zipcode 
+This project allows PG county residents to have easy and convenient access to a list of PG County Libraries without having to do extensive research to find them them individually.
 
 ### How to use Markdown
 Markdown is a text notation system used in Discord, Whatsapp and similar to structure pages without writing HTML at all. You'll be using it for your documentation.
 * [Markdown guide](https://www.markdownguide.org/cheat-sheet/)
-
-# Link: ishaan-d-puri.github.io
